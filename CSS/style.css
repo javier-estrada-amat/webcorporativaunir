@@ -1,13 +1,13 @@
 .body {
 
-    background-image: url("../img/fondo.jpg");
+    background-image: url("img/fondo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: url(fuentes/BreakingBad.ttf); 
     
 }
 .formulario3 {
-    background-image: url("../img/fondo.jpg");
+    background-image: url("img/fondo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: url(fuentes/BreakingBad.ttf); 
